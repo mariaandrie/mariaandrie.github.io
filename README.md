@@ -16,7 +16,7 @@ Here is my GitHub place. Welcome!
 <a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50"/></a>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px;" src="https://img.icons8.com/color/96/tableau-software.png" height="50"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px;" src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="50"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL / SQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50"/></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/></a>
 
 </div>
